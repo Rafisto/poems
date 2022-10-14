@@ -1,0 +1,58 @@
+textarea{
+    background-color: #282c34;
+    color: aliceblue;
+    border: 0.5px solid #ffffff11;
+    font-family: monospace;
+    font-size: 1.5rem;
+    height:auto;
+    margin-inline:1rem;
+    padding-inline:0.5rem;
+}
+
+textarea:hover,
+textarea:active{
+    border: 0.5px solid #ffffff11;
+    box-shadow:none;
+}
+
+textarea:focus{
+    border: 0.5px solid #ffffff22;
+    box-shadow:none;
+    outline:none;
+}
+
+.Textarea{
+    text-align:left;
+}
+
+
+.Motives{
+    text-align:left;
+}
+
+.Boxes{
+    display:flex;
+}
+
+.Sidebutton{
+    border: 0.5px solid #ffffff22;
+    border-radius:0.5rem;
+    padding-inline: 0.5rem;
+    text-align:center;
+}
+
+.Sidebutton{
+    background-color: #282c34;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+.Sidebutton:hover{
+    border: 0.5px solid #ffffff44;
+    background-color: #6581ff;
+}
+
+.Sidebutton{
+    margin-bottom:0.5rem;
+}
